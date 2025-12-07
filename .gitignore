@@ -1,0 +1,24 @@
+# R related
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data files (large or sensitive)
+*.csv
+*.rds
+*.RData
+data/
+
+# Results and outputs
+results/
+output/
+figures/
+*.png
+*.pdf
+*.gif
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
