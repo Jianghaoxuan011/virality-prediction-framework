@@ -7,9 +7,10 @@
 
 \f0\fs24 \cf0 # Virality Prediction Framework\
 \
-## Paper Title\
-Predicting Content Virality through Integrated Machine Learning and Network Diffusion Modeling: A Robust Framework with Baseline Comparisons and Sensitivity Analysis\
-\
+**This code repository accompanies the manuscript:**  
+*Predicting Content Virality through Integrated Machine Learning and Network Diffusion Modeling: A Robust Framework with Baseline Comparisons and Sensitivity Analysis* (submitted to EPJ Data Science, 2025).  
+For citation details, see the [Citation](#citation) section below.
+
 ## Overview\
 This study develops a three-stage framework for predicting viral spread of social media content. The framework integrates machine learning (content appeal prediction) with network science (diffusion simulation), providing novel explanatory insights into content propagation mechanisms.\
 \
